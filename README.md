@@ -16,9 +16,9 @@ All instructions can be found at [draculatheme.com/delphi](https://draculatheme.
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/delphi/graphs/contributors).
 
-| [![Rodrigo Ruz](https://github.com/rruz.png?size=100)](https://github.com/rruz) |
-| ------------------------------------------------------------------------------- |
-| [Rodrigo Ruz](https://github.com/rruz)                                          |
+| [![Rodrigo Ruz](https://github.com/rruz.png?size=155)](https://github.com/rruz) | [![Claudino Brunharoto Junior](https://github.com/claudinobrunharoto.png?size=155)](https://github.com/claudinobrunharoto) |
+| ------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| [Rodrigo Ruz](https://github.com/rruz)                                          | [Claudino Brunharoto Jr](https://github.com/claudinobrunharoto)                                                            |
 
 ## Community
 

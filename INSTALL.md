@@ -12,7 +12,7 @@ Download using the [GitHub .zip download](https://github.com/dracula/delphi/arch
 
 #### Activating theme
 
-1. Open folder according to your installed Delphi version (supported versions 10.4 and 11.0)
+1. Open folder according to your installed Delphi version (supported versions 10.4 to 13.0)
 2. Select and double click file `Dracula.NN.0.reg`
 3. Start Delphi
 4. Boom! It's working.
